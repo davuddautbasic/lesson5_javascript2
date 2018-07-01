@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 30, 2018
 
 ### Student Name:  
-(First and Last Name)
+Davud Dautbasic
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we focused on creating a tax calculator that had different tax rates based on if someone was single, married, filing alone but married, or head of household.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://davuddautbasic.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to utilize else if in javascript.
+2. Learned about the "Option" tag. 
+3. As well, I utilized getElementById.
 
